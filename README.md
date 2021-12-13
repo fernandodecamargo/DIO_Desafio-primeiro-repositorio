@@ -10,15 +10,18 @@ Sou técnico em segurança do trabalho e busco a minha transição  de carreria 
 
 Querem fazer como eu? Acessem a plataforma da [Digital Innovation One](https://digitalinnovation.one/) e faça os seus cursos ou bootcamp!
 
-##Bootcamps realizdos
+## Bootcamp realizados
 
 Everis Quality Assurance Beginner
+
 Everis Quality Assurance Beginer #2
+
 NTT DATA Quality Assurance Beginner #3
 
 ## Bootcamps em andamento
 
 Bootcamp Inter FrontEnd Developer
+
 Bootcamp MRV Full Stacj Developer
 
 ##Certificados
