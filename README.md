@@ -8,7 +8,7 @@ Sou técnico em segurança do trabalho e busco a minha transição  de carreria 
 ##Linkedin
 [Fernando de Camargo](https://www.linkedin.com/in/fernando-de-camargo/)
 
-Querem fazer como eu? Acessem a plataforma da [Digital Innovation One] (https://digitalinnovation.one/) e faça os seus cursos ou bootcamp!
+Querem fazer como eu? Acessem a plataforma da [Digital Innovation One](https://digitalinnovation.one/) e faça os seus cursos ou bootcamp!
 
 ##Bootcamps realizdos
 
